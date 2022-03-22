@@ -1,6 +1,8 @@
 
 ![](https://github.com/Lopez-John/Lopez-John/blob/main/Black%20Simple%20Hannah%20Morales%20Traveller%20LinkedIn%20Banner%20(1).png?raw=true)
 
+## Hi there, I'm John and welcome to my GitHub page!
+
 
 Do you need an employee with the analytical skills to wrangle your data? Someone with the communication skills to wrangle your stakeholders? How about someone who is coming from a customer service background and is transitioning to a new career in Data Science? Imagine me solving your company's problems who have the grit needed to learn and utilize analytical, predictive, and machine learning skills. Would you like to know more?
 
