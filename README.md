@@ -24,7 +24,7 @@ Data Visualizations: matplotlib, tableau
 
 Machine Learning: sciKit-Learn, sciPy
 
-Neural Networks: Keras, tensorflow
+Neural Networks: keras, tensorflow
 
 Natual Language Processing: spaCy, pyLDAvis, gensim
 
