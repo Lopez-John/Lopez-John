@@ -14,7 +14,7 @@ I am currently enrolled in Bloomtech for their Data Science course. Since then, 
 
 ✔ Worked as a data engineer with 4 others to build an app that returns the probability of success for a given Kickstarter.
 
-So why did I take the leap to Data Science?
+𝐒𝐨 𝐰𝐡𝐲 𝐝𝐢𝐝 𝐈 𝐭𝐚𝐤𝐞 𝐭𝐡𝐞 𝐥𝐞𝐚𝐩 𝐭𝐨 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞?
 
 Working in Customer Service, I made an impact in the lives of the customers I interacted with, but I also wanted to be in the room where decisions are made that impact the business as a whole. I want to influence those decisions that affect the direction that company takes. After researching, I saw how data has been utilized in all industries and I wanted to learn how to manipulate that data for business needs. Whether is analyzing data, creating predictive models, or building neural networks used in software, I knew I needed to enter this new and emerging career path.
 
