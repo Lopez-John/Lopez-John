@@ -38,6 +38,9 @@ Creating an app that determines if a chord played is in a Major key or minor key
 
 - 🌱 I’m currently learning **Librosa and sound processing**
 
+Kaggle competition Spaceship Titanic to predict which passengers are transported to an alternate dimension
+- https://www.kaggle.com/competitions/spaceship-titanic/overview
+
 🙋‍♂️ - Connect with me
 ----------------------
 <p align="left">
