@@ -48,4 +48,3 @@ Kaggle competition Spaceship Titanic to predict which passengers are transported
 <a href="https://linkedin.com/in/john-carlo-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-carlo-lopez" height="30" width="40" /></a>
 <a href="https://medium.com/@john.carlo.lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@john.carlo.lopez" height="30" width="40" /></a>
 </p>
-
